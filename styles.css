@@ -1,0 +1,99 @@
+#e13_0 {
+    position:relative;
+    opacity:1;
+    width:1440px;
+    height:75px;
+    }
+    #e1_4 {
+    background-color:rgba(9.56250037997961, 9.482812955975533, 9.482812955975533, 1);
+    opacity:1;
+    border:2px solid rgba(255, 255, 255, 1);
+    width:1440px;
+    height:75px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    }
+    #e1_8 {
+    color:rgba(255, 255, 255, 1);
+    opacity:1;
+    width:247px;
+    height:42px;
+    position:absolute;
+    left:24px;
+    top:20px;
+    font-family:Roboto;
+    text-align:left;
+    font-size:28px;
+    letter-spacing:0;
+    line-height:undefined;
+    }
+    #e2_9 {
+    background-color:rgba(255, 252.87500202655792, 252.87500202655792, 1);
+    opacity:1;
+    width:36px;
+    height:36px;
+    position:absolute;
+    left:1326px;
+    top:17px;
+    }
+    #e2_5 {
+    background-color:rgba(255, 253.93750101327896, 253.93750101327896, 1);
+    opacity:1;
+    width:26px;
+    height:26px;
+    position:absolute;
+    left:1093px;
+    top:23px;
+    }
+    #e2_3 {
+    background-color:rgba(255, 255, 255, 1);
+    opacity:1;
+    width:27px;
+    height:27px;
+    position:absolute;
+    left:1038px;
+    top:22px;
+    }
+    #e2_7 {
+    background-color:rgba(255, 252.87500202655792, 252.87500202655792, 1);
+    opacity:1;
+    width:26px;
+    height:26px;
+    position:absolute;
+    left:1152px;
+    top:23px;
+    }
+    #e4_0 {
+        opacity:1;
+        width:821px;
+        height:648px;
+        }
+        #e4_1 {
+            color:rgba(255, 255, 255, 1);
+            opacity:1;
+            width:874px;
+            height:451px;
+            font-family:Poppins;
+            text-align:left;
+            font-size:64px;
+            letter-spacing:0;
+            line-height:undefined;
+            }
+            #e4_4 {
+                color:rgba(0, 0, 0, 1);
+                opacity:1;
+                width:125px;
+                height:28px;
+                font-family:Poppins;
+                text-align:left;
+                font-size:12px;
+                letter-spacing:0;
+                line-height:undefined;
+                }
+                #e4_2 {
+                    background-color:rgba(255, 255, 255, 1);
+                    opacity:1;
+                    width:140px;
+                    height:44px;
+                    }
